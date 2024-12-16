@@ -1,0 +1,7 @@
+gradio==3.43.0           # For the Gradio interface
+PyPDF2==3.0.1            # For reading and processing PDF files
+langchain==0.0.194       # For LangChain utilities such as chains, prompts, and vectorstores
+langchain-openai==0.1.8  # For OpenAI integrations in LangChain
+langchain-community==0.1.2 # For community-contributed vectorstore implementations (Chroma)
+chromadb==0.4.3          # For Chroma vectorstore
+openai==0.27.10          # For OpenAI API usage
