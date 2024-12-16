@@ -1,6 +1,8 @@
 
 # AI Agora: Fostering Democratic Knowledge via Augmented Retrieval
 
+![agora](https://github.com/user-attachments/assets/8359deee-a934-4d9f-a909-0a830e34d837)
+
 **AI Agora** is an innovative application at the intersection of learning and social justice, designed to empower scholars, social researchers, and citizens to explore publicly available **Congressional Records** in a meaningful and efficient way. By leveraging state-of-the-art Augmented Retrieval techniques, this project aims to democratize access to critical legislative information, fostering transparency and participation in the democratic process.
 
 ---
